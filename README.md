@@ -67,3 +67,6 @@ shop-smart-prediction
 ├── LICENSE
 └── .gitignore
 ```
+
+**Author**
+PARMAR AMIT
