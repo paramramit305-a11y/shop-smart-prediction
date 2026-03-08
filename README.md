@@ -68,5 +68,6 @@ shop-smart-prediction
 └── .gitignore
 ```
 
-**Author**
-PARMAR AMIT
+***Author***
+
+**PARMAR AMIT**
